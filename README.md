@@ -1,4 +1,3 @@
-# Plant-Hydration-System
 # 🌿 Plant Hydration System
 
 A desktop-based plant watering simulation system built using Python and Tkinter. The application allows users to add plants, define their watering needs, and simulate automated hydration cycles.
